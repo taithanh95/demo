@@ -1,0 +1,773 @@
+<html><head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:MingLiU;
+	panose-1:2 1 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\.VnTime";
+	panose-1:2 11 114 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Times New Roman Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Batang";
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"\@MingLiU";
+	panose-1:2 1 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.35pt 841.95pt;
+	margin:56.7pt 56.7pt 56.7pt 85.05pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang="EN-US" link="#0563C1" vlink="#954F72" style="word-wrap:break-word">
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span lang="PT-BR" style="font-size:14.0pt">Phụ lục IV</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span lang="PT-BR" style="font-size:13.0pt;font-family:&quot;Times New Roman Bold&quot;,serif;letter-spacing:
+-.4pt">MẪU VĂN BẢN ĐĂNG KÝ BỔ SUNG HOẠT
+ĐỘNG GIÁO DỤC NGHỀ NGHIỆP </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center;line-height:17.0pt"><i><span lang="PT-BR" style="font-size:13.0pt">&nbsp;(</span></i><i><span lang="PT-BR" style="font-size:13.0pt">Kèm theo Nghị định số ...../202</span></i><i><span lang="VI" style="font-size:13.0pt">2</span></i><i><span lang="PT-BR" style="font-size:13.0pt">/NĐ-CP ngày .... tháng ... năm ....
+của Chính phủ)</span></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<table cellpadding="0" cellspacing="0" align="left">
+ <tbody><tr>
+  <td width="32" height="37"></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td><img width="576" height="1" src="10.%20MẪU%20VĂN%20BẢN%20ĐĂNG%20KÝ%20BỔ%20SUNG%20HOẠT%20ĐỘNG%20GIÁO%20DỤC%20NGHỀ%20NGHIỆP%20_files/image001.png"></td>
+ </tr>
+</tbody></table>
+
+<b><span lang="VI" style="font-size:14.0pt">&nbsp;</span></b></p>
+
+<br clear="ALL">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="632" style="width:474.35pt;margin-left:-14.45pt;border-collapse:collapse">
+ <tbody><tr style="height:27.8pt">
+  <td width="227" valign="top" style="width:170.15pt;padding:0in 5.4pt 0in 5.4pt;
+  height:27.8pt"><span lang="PT-BR" style="font-size:14.0pt;line-height:115%;
+  font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:
+  always">
+  <br clear="all" style="page-break-before:always">
+  </span>
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:115%"><span lang="PT-BR" style="font-size:14.0pt;line-height:115%">...............(1)....................</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span style="position:absolute;z-index:251715584;left:0px;margin-left:75px;
+  margin-top:75px;width:141px;height:1px"><img width="113" height="1" src="10.%20MẪU%20VĂN%20BẢN%20ĐĂNG%20KÝ%20BỔ%20SUNG%20HOẠT%20ĐỘNG%20GIÁO%20DỤC%20NGHỀ%20NGHIỆP%20_files/image002.png"></span><b><span lang="PT-BR" style="font-size:14.0pt">..........</span></b><b><span lang="VI" style="font-size:14.0pt">...</span></b><b><span lang="PT-BR" style="font-size:
+  14.0pt">....</span></b><b><span lang="PT-BR" style="font-size:14.0pt"> </span></b><span lang="PT-BR" style="font-size:14.0pt">(2)<b> ........</b></span><b><span lang="VI" style="font-size:14.0pt">....</span></b><b><span lang="PT-BR" style="font-size:14.0pt">.........</span></b></p>
+  <p class="MsoNormal"><span style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="406" valign="top" style="width:304.2pt;padding:0in 5.4pt 0in 5.4pt;
+  height:27.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt;text-transform:uppercase">CỘNG HOÀ</span></b><b><span style="font-size:14.0pt"> XÃ HỘI CHỦ NGHĨA VIỆT NAM</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">Độc lập - Tự do - Hạnh
+  phúc</span></b></p>
+  <p class="MsoNormal"><span style="position:absolute;z-index:251714560;
+  margin-left:170px;margin-top:51px;width:268px;height:1px"><img width="214" height="1" src="10.%20MẪU%20VĂN%20BẢN%20ĐĂNG%20KÝ%20BỔ%20SUNG%20HOẠT%20ĐỘNG%20GIÁO%20DỤC%20NGHỀ%20NGHIỆP%20_files/image003.png"></span><b><span style="font-size:13.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+  </td>
+ </tr>
+ <tr style="height:25.9pt">
+  <td width="227" valign="top" style="width:170.15pt;padding:0in 5.4pt 0in 5.4pt;
+  height:25.9pt">
+  <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+  margin-bottom:3.0pt;margin-left:0in;text-align:center"><span style="font-size:14.0pt">Số: </span><span lang="VI" style="font-size:
+  14.0pt">......... </span><span style="font-size:14.0pt">/</span><span lang="VI" style="font-size:14.0pt">....</span><span style="font-size:14.0pt">(3)</span><span lang="VI" style="font-size:14.0pt">.....</span><span style="font-size:14.0pt">-
+  ĐKHĐ</span></p>
+  </td>
+  <td width="406" valign="top" style="width:304.2pt;padding:0in 5.4pt 0in 5.4pt;
+  height:25.9pt">
+  <p class="MsoNormal" align="right" style="margin-top:3.0pt;margin-right:0in;
+  margin-bottom:3.0pt;margin-left:0in;text-align:right"><i><span lang="VI" style="font-size:14.0pt">.............</span></i><i><span style="font-size:
+  14.0pt">, ngày </span></i><i><span lang="VI" style="font-size:14.0pt">..........</span></i><i><span style="font-size:14.0pt">&nbsp; tháng </span></i><i><span lang="VI" style="font-size:14.0pt">..........</span></i><i><span style="font-size:14.0pt">
+  năm 20</span></i><i><span lang="VI" style="font-size:14.0pt">.......</span></i></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" align="center" style="margin-top:.25in;margin-right:0in;
+margin-bottom:12.0pt;margin-left:0in;text-align:center;text-indent:.5in;
+line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">Kính gửi</span><span lang="PT-BR" style="font-size:14.0pt">:.........................................(4)............................................</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">1. Tên cơ sở đăng
+ký:.........................................(5).......................... </span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">Tên giao dịch quốc tế
+bằng tiếng Anh (nếu có):............................... </span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">2. Địa chỉ trụ
+sở chính: .......................................(6)......................... </span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">Điện thoại:
+................................................Fax:
+............................................</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">Webite:
+.....................................................Email:
+........................................</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">Địa chỉ phân
+hiệu/địa điểm đào tạo khác (nếu
+có): ......................................</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">3. Giấy chứng nhận
+đăng ký hoạt động giáo dục nghề
+nghiệp số: ............... </span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">Ngày, tháng, năm cấp: .................................................................................</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">Cơ quan cấp:
+..................................................................................................................... </span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">4. Nội dung đăng ký
+bổ sung</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span lang="PT-BR" style="font-size:14.0pt">a) Địa điểm
+đăng ký bổ sung&nbsp;thứ nhất: .............................(7).......................</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span style="font-size:14.0pt">Lý do đăng ký bổ sung: ……………………………………………………</span></p>${item.table}
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="650" style="width:100%;border-collapse:collapse;
+ border:none">
+ <thead>
+  <tr style="height:22.7pt">
+   <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+   height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">TT</span></b></p>
+   </td>
+   <td width="255" style="width:191.35pt;border:solid windowtext 1.0pt;
+   border-left:none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Tên ngành, nghề đào tạo</span></b></p>
+   </td>
+   <td width="142" style="width:106.3pt;border:solid windowtext 1.0pt;border-left:
+   none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Mã ngành/nghề (8)</span></b></p>
+   </td>
+   <td width="113" style="width:85.05pt;border:solid windowtext 1.0pt;border-left:
+   none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Quy mô</span></b></p>
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">tuyển sinh/năm</span></b></p>
+   </td>
+   <td width="93" style="width:69.55pt;border:solid windowtext 1.0pt;border-left:
+   none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Trình độ </span></b><b><span lang="FR" style="font-size:14.0pt"><br>
+   </span></b><b><span lang="FR" style="font-size:14.0pt">đào tạo</span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">I</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">Nhóm ngành, nghề thứ nhất (9)</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">1</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">2</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">….</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">II</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">Nhóm ngành, nghề thứ hai (9)</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">1</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">2</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">….</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-indent:.5in;line-height:17.0pt"><span style="font-size:
+14.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-indent:.5in;line-height:17.0pt"><span style="font-size:
+14.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span style="font-size:14.0pt">b) Địa điểm đăng ký
+bổ sung thứ hai: ……………. (10)…………………</span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span style="font-size:14.0pt">Lý do đăng ký bổ sung: ………………………………………………….</span></p>
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="650" style="width:100%;border-collapse:collapse;
+ border:none">
+ <thead>
+  <tr style="height:22.7pt">
+   <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+   height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">TT</span></b></p>
+   </td>
+   <td width="255" style="width:191.35pt;border:solid windowtext 1.0pt;
+   border-left:none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Tên ngành, nghề đào tạo</span></b></p>
+   </td>
+   <td width="142" style="width:106.3pt;border:solid windowtext 1.0pt;border-left:
+   none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Mã ngành/nghề (8)</span></b></p>
+   </td>
+   <td width="113" style="width:85.05pt;border:solid windowtext 1.0pt;border-left:
+   none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Quy mô</span></b></p>
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">tuyển sinh/năm</span></b></p>
+   </td>
+   <td width="93" style="width:69.55pt;border:solid windowtext 1.0pt;border-left:
+   none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+   <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="FR" style="font-size:14.0pt">Trình độ </span></b><b><span lang="FR" style="font-size:14.0pt"><br>
+   </span></b><b><span lang="FR" style="font-size:14.0pt">đào tạo</span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">I</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">Nhóm ngành, nghề thứ nhất (9)</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">1</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">2</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">….</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">II</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">Nhóm ngành, nghề thứ hai (9)</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">1</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">2</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="height:22.7pt">
+  <td width="47" style="width:35.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">….</span></p>
+  </td>
+  <td width="255" style="width:191.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="113" style="width:85.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+  <td width="93" style="width:69.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:22.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="font-size:14.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;text-indent:.5in;line-height:16.0pt"><span style="font-size:14.0pt;color:white">5. Chúng tôi xin cam kết thực
+hiện đúng những quy định về giáo dục
+nghề nghiệp và các quy định của pháp luật có
+liên quan./.</span></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="250" valign="top" style="width:187.4pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" style="line-height:115%"><b><i>&nbsp;</i></b></p>
+  <p class="MsoNormal" style="line-height:115%"><b><i>Nơi nhận:</i></b><b><i><span style="font-size:13.0pt;line-height:115%"><br>
+  </span></i></b><span style="font-size:11.0pt;line-height:115%">- Như trên;</span><span style="font-size:11.0pt;line-height:115%;font-family:MingLiU"><br>
+  </span><span style="font-size:11.0pt;line-height:115%">- ……..;</span><span style="font-size:11.0pt;line-height:115%;font-family:MingLiU"><br>
+  </span><span style="font-size:11.0pt;line-height:115%">- Lưu: VT, …. </span></p>
+  <p class="MsoNormal" style="line-height:115%">&nbsp;</p>
+  </td>
+  <td width="383" valign="top" style="width:287.0pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:115%"><span style="font-size:14.0pt;line-height:115%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; …….……. (11)……..……..</span></p>
+  <p class="MsoNormal" style="text-indent:.5in;line-height:115%"><i><span style="font-size:14.0pt;line-height:115%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Ký tên, đóng
+  dấu, ghi rõ họ và tên)</span></i></p>
+  <p class="MsoNormal" style="line-height:115%"><span style="font-size:14.0pt;
+  line-height:115%">&nbsp;</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" style="text-align:justify"><b><u><span lang="PT-BR">Hướng
+dẫn: </span></u></b></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(1): Tên cơ
+quan chủ quản (nếu có);</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(2), (5): Ghi
+đúng tên cơ sở đăng ký bổ sung hoạt
+động giáo dục nghề nghiệp theo tên trong
+quyết định thành lập hoặc cho phép thành lập
+hoặc giấy chứng nhận đăng ký doanh
+nghiệp hoặc giấy chứng nhận đăng ký
+đầu tư;</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(3): Tên
+viết tắt của cơ sở đăng ký bổ sung
+hoạt động giáo dục nghề nghiệp;</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(4): Cơ
+quan có thẩm quyền cấp giấy chứng nhận
+đăng ký bổ sung hoạt động giáo dục
+nghề nghiệp;</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(6): Ghi
+đúng theo địa chỉ ghi trong quyết định
+thành lập, cho phép thành lập hoặc giấy chứng
+nhận đăng ký doanh nghiệp hoặc giấy
+chứng nhận đăng ký đầu tư;</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(7), (10): Ghi
+cụ thể địa điểm đăng ký bổ
+sung; </span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(8): Mã ngành,
+nghề áp dụng đối với trình độ trung
+cấp, trình độ cao đẳng;</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(9): Nhóm ngành,
+nghề được xác định như sau:</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">Việc xác
+định nhóm ngành, nghề (mã cấp III) đối
+với trình độ cao đẳng, trình độ trung
+cấp&nbsp;được thực hiện theo quy
+định của Bộ Lao động - Thương binh
+và Xã hội; việc xác định nhóm nghề đào
+tạo trình độ sơ cấp thực hiện theo quy
+định tại khoản II phần II Phụ lục danh
+mục giáo dục, đào tạo của hệ thống
+giáo dục quốc dân ban hành kèm theo Quyết định
+số 01/2017/QĐ-TTg ngày 17/01/2017 của Thủ
+tướng Chính phủ&nbsp; quyết định ban hành danh
+mục giáo dục, đào tạo của hệ thống
+giáo dục quốc dân.</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span lang="PT-BR">(11): Chức
+danh, chức vụ của </span><span lang="PT-BR">người
+đứng đầu cơ sở giáo dục nghề
+nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục
+thường xuyên, doanh nghiệp.</span></p>
+
+</div>
+
+
+
+
+</body></html>

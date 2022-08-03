@@ -1,0 +1,17 @@
+{
+  "api": {
+    "baseUrl": "http://123.30.210.237:44349",
+    "siteUrl": "http://localhost:4200"
+  },
+  "sso": {
+    "baseUrl": "http://molisa.hpts.vn",
+    "clientKey": "V1Y7pqRZ"
+  },
+  "site": {
+    "baseUrl": "https://vekotest.stc.vn",
+    "imageUrl": "https://vekotest.stc.vn/uploads/"
+  },
+  "pageSize": [10, 50, 100],
+  "page": 1,
+  "defaultPage": 10
+}

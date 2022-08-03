@@ -1,0 +1,26 @@
+<svg id="Group_2088" data-name="Group 2088" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.865" height="54.87" viewBox="0 0 54.865 54.87">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-1.092" y1="-2.861" x2="-0.436" y2="-2.106" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5d3fd2"/>
+      <stop offset="0.424" stop-color="#b829a9"/>
+      <stop offset="0.501" stop-color="#be289d"/>
+      <stop offset="0.638" stop-color="#cf257e"/>
+      <stop offset="0.785" stop-color="#e62256"/>
+      <stop offset="0.815" stop-color="#e83055"/>
+      <stop offset="0.872" stop-color="#ee5754"/>
+      <stop offset="0.949" stop-color="#f89553"/>
+      <stop offset="1" stop-color="#ffc153"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2087" data-name="Group 2087" transform="translate(0 0)">
+    <path id="Path_1759" data-name="Path 1759" d="M140.936,389.395a27.435,27.435,0,1,0,27.433,27.438A27.435,27.435,0,0,0,140.936,389.395Z" transform="translate(-113.504 -389.395)" fill="url(#linear-gradient)"/>
+    <g id="Group_2086" data-name="Group 2086" transform="translate(11.011 11.163)">
+      <path id="Path_1760" data-name="Path 1760" d="M164.823,451.107Zm15.7-27.807h0Z" transform="translate(-156.253 -421.528)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_2085" data-name="Group 2085" transform="translate(6.624 6.476)">
+        <path id="Path_1761" data-name="Path 1761" d="M169.522,455.218a9.8,9.8,0,1,0-9.8-9.793A9.806,9.806,0,0,0,169.522,455.218Zm-7.42-9.793a7.42,7.42,0,1,1,7.42,7.421A7.432,7.432,0,0,1,162.1,445.425Z" transform="translate(-159.725 -435.626)" fill="#fff"/>
+      </g>
+      <path id="Path_1762" data-name="Path 1762" d="M168.555,451.2H149.014a6.658,6.658,0,0,1-6.651-6.651V425.3a6.658,6.658,0,0,1,6.651-6.651h19.541a6.659,6.659,0,0,1,6.651,6.651v19.242A6.659,6.659,0,0,1,168.555,451.2ZM149.014,421.08a4.229,4.229,0,0,0-4.224,4.224v19.242a4.229,4.229,0,0,0,4.224,4.224h19.541a4.229,4.229,0,0,0,4.224-4.224V425.3a4.229,4.229,0,0,0-4.224-4.224Z" transform="translate(-142.363 -418.653)" fill="#fff"/>
+    </g>
+    <path id="Path_1763" data-name="Path 1763" d="M208.92,432.7a1.546,1.546,0,1,0,1.548,1.548A1.549,1.549,0,0,0,208.92,432.7Z" transform="translate(-171.558 -416.176)" fill="#fff"/>
+  </g>
+</svg>
